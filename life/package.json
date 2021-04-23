@@ -1,5 +1,5 @@
 {
-  "name": "react_starter",
+  "name": "game_of_life",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "Christopher Girvin",
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.2",
